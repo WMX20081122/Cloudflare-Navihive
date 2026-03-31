@@ -22,12 +22,8 @@
             "database_id": "4d3e2931-891f-4c1a-a6fa-9f0ff2ff4c6a"
         }
     ],
-    "vars": {
-        "AUTH_ENABLED": "true",
-        "AUTH_USERNAME": "wmx",
-        "AUTH_PASSWORD": "$2b$12$MeRSUdj2PhC1MokgGFhwfeiV/k329aM6XJsTMon.Axt54.30R.TFC",
-        "AUTH_SECRET": "$2b$10$QUjLq0lZx2q6/D.C0ZPxBuLjrfKX0mCvkvb6WssTjEUTEZZ2QUnVW"
-    }
+    // 认证配置请在 Cloudflare Dashboard -> Workers -> Settings -> Variables 中设置
+    // AUTH_ENABLED, AUTH_USERNAME, AUTH_PASSWORD, AUTH_SECRET
 }
 
 
