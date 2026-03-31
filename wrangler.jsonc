@@ -24,9 +24,9 @@
     ],
     "vars": {
         "AUTH_ENABLED": "true",
-        "AUTH_USERNAME": "admin",
-        "AUTH_PASSWORD": "$2a$12$ZSLUS9VrKsVf6yjgGUn2/ewLY9vqztqFpL99NExv6Kv3GjvyRnNEG",
-        "AUTH_SECRET": "$2y$10$IMVl9NM.Smo7xbPVyi9HEOBhcLxOPKEp9RBIEoijS4YbKjeyFjJFm"
+        "AUTH_USERNAME": "wmx",
+        "AUTH_PASSWORD": "$2b$12$MeRSUdj2PhC1MokgGFhwfeiV/k329aM6XJsTMon.Axt54.30R.TFC",
+        "AUTH_SECRET": "$2b$10$QUjLq0lZx2q6/D.C0ZPxBuLjrfKX0mCvkvb6WssTjEUTEZZ2QUnVW"
     }
 }
 
